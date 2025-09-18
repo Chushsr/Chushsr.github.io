@@ -1,2 +1,0 @@
-# Chushsr.github.io
-hello
